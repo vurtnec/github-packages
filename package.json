@@ -1,0 +1,19 @@
+{
+  "name": "@vurtnec/github-packages",
+  "version": "1.0.0",
+  "description": "Github Package Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vurtnec/github-packages.git"
+  },
+  "author": "vurtnec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vurtnec/github-packages/issues"
+  },
+  "homepage": "https://github.com/vurtnec/github-packages#readme"
+}
